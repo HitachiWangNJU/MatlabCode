@@ -13,3 +13,4 @@ Some Matlab Code
 |2020-3-9|Std2Grid|把站点数据插值成格点数据 线性插值|  
 |2020-3-9|Std2GridN|把站点数据插值成格点数据 自然点插值|  
 |2020-3-9|PS_Score_PRC|PS评分|  
+|2020-3-10|m_stripple|给满足条件的区域打叉或者打点，用法参考stripple函数|
