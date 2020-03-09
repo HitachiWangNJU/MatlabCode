@@ -1,4 +1,4 @@
-%% ------------ PS score code ----------------
+%% ------------ PS score code ----------------%%  
 %  This code is used to calculate PS score for climate prediction
 %  writter by Hitachi WAWNG
 %  reference from Xuguang SUN
